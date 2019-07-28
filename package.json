@@ -1,0 +1,11 @@
+{
+  "name": "@types/collections",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "./tcollections.d.ts",
+  "devDependencies": {
+    "@types/node": "^12.6.8",
+    "collections": "^5.1.9",
+    "typescript": "^3.5.3"
+  }
+}

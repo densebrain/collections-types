@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "collections": "^5.1.9",
+    "dts-gen": "^0.5.8"
+  },
+  "name": "tcollections",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
